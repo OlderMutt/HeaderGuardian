@@ -54,7 +54,7 @@
 ## Examples
 
 ![image](https://github.com/user-attachments/assets/4dbe65c8-1b4c-4dd8-b778-e91a56f9bd21)
-![image](https://github.com/user-attachments/assets/87e67848-c4c9-42c4-8a59-c639acf8eca2)
+![image](https://github.com/user-attachments/assets/c2fad20f-345f-4a0f-b9cb-8fe1092df175)
 
 ## References
 
