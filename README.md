@@ -50,7 +50,7 @@
 - Missing Headers: Lists headers that are missing from the response, highlighted in red.
 - Incorrect Headers: Lists headers that are present but do not match the recommended values, highlighted in orange.
 - Correct Headers: Lists headers that match the recommended values, highlighted in green.
-
+- Headers to be deleted: Lists headers that must be deleted.
 ## Examples
 
 ![image](https://github.com/user-attachments/assets/4dbe65c8-1b4c-4dd8-b778-e91a56f9bd21)
