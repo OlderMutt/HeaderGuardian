@@ -9,6 +9,7 @@
 - **Supports different HTTP methods (GET, POST, PUT, PATCH, DELETE)**
 - **Supports authenticated connections using cookies**
 - **Displays results with color-coded outputs for easy interpretation**
+- **Supports import and parse HTTP requests from Burp Suite exported XML files.
 
 ## Prerequisites
 
@@ -51,10 +52,18 @@
 - Incorrect Headers: Lists headers that are present but do not match the recommended values, highlighted in orange.
 - Correct Headers: Lists headers that match the recommended values, highlighted in green.
 - Headers to be deleted: Lists headers that must be deleted.
+
 ## Examples
 
 ![image](https://github.com/user-attachments/assets/4dbe65c8-1b4c-4dd8-b778-e91a56f9bd21)
 ![image](https://github.com/user-attachments/assets/c2fad20f-345f-4a0f-b9cb-8fe1092df175)
+
+## Usage with Burpsuite xml exported request
+
+1. Run the Script
+
+    ```bash
+   python3 HeaderGuardian.py -r req.txt
 
 ## References
 
