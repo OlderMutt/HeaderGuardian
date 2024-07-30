@@ -55,8 +55,8 @@
 
 ## Examples
 
-![image](https://github.com/user-attachments/assets/4dbe65c8-1b4c-4dd8-b778-e91a56f9bd21)
-![image](https://github.com/user-attachments/assets/c2fad20f-345f-4a0f-b9cb-8fe1092df175)
+![image](https://github.com/user-attachments/assets/ac65fca6-7426-47fe-b167-79cc846603c2)
+![image](https://github.com/user-attachments/assets/633bd326-99c8-45d5-86e2-97b20193f38e)
 
 ## Usage with Burpsuite xml exported request
 
